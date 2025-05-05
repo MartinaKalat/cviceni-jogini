@@ -1,0 +1,30 @@
+{
+  "name": "cviceni-jogini",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/MartinaKalat/cviceni-jogini#readme",
+  "bugs": {
+    "url": "https://github.com/MartinaKalat/cviceni-jogini/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinaKalat/cviceni-jogini.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@czechitas/render": "^0.3.1",
+    "jsx": "^0.9.89",
+    "render": "^0.1.4"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
